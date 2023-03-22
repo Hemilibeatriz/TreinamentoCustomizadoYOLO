@@ -1,3 +1,5 @@
+# Créditos a: Jones Granatyr :)
+
 import os
 
 # o que o codigo abaixo faz: adiciona o nome e caminho de todos as fotos (.jpg) em um txt
