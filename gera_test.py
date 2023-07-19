@@ -1,4 +1,4 @@
-# Créditos a: Jones Granatyr :)
+# Créditos à: Jones Granatyr :)
 
 import os
 
